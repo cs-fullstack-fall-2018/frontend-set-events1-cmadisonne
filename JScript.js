@@ -31,3 +31,13 @@ function reset() {
 
 //EXTRA CREDIT
 
+/*
+
+Step 1:
+Complete
+
+Step 2:
+Complete
+
+From Kenn
+*/
